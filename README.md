@@ -1,7 +1,7 @@
-# 🏥 SWP391 – Hệ thống Hỗ trợ Đặt lịch Khám bệnh
+# 🏥 SWR302 – Hệ thống Hỗ trợ Đặt lịch Khám bệnh
 
 > **Nhóm 1** | FPT University  
-> Môn: SWP391 – Software Project
+> Môn: SWR302 – Software Project
 
 ---
 
